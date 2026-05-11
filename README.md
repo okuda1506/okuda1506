@@ -1,16 +1,17 @@
-## Hi there 👋
+![header](https://readme-typing-svg.demolab.com?font=DM+Mono&size=32&duration=0&pause=0&color=000000&vCenter=true&width=400&height=60&lines=Hi%2C+I'm+Takuya#gh-light-mode-only)
+![header](https://readme-typing-svg.demolab.com?font=DM+Mono&size=32&duration=0&pause=0&color=FFFFFF&vCenter=true&width=400&height=60&lines=Hi%2C+I'm+Takuya#gh-dark-mode-only)
 
-<!--
-**okuda1506/okuda1506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer.  
+I like backend.  
+Based in Kagurazaka, Tokyo.
 
-Here are some ideas to get you started:
+Hobbies: Into work cafés — that's about it. Lately just coding all the time...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+[blog →](https://okudanoblog-next.vercel.app)
