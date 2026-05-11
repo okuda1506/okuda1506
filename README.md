@@ -1,5 +1,4 @@
-![header](https://readme-typing-svg.demolab.com?font=DM+Mono&size=32&duration=0&pause=0&color=000000&vCenter=true&width=400&height=60&lines=Hi%2C+I'm+Takuya#gh-light-mode-only)
-![header](https://readme-typing-svg.demolab.com?font=DM+Mono&size=32&duration=0&pause=0&color=FFFFFF&vCenter=true&width=400&height=60&lines=Hi%2C+I'm+Takuya#gh-dark-mode-only)
+# Hi, I'm Takuya
 
 Software Engineer.  
 I like backend.  
