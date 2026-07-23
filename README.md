@@ -6,7 +6,7 @@ Based in Kagurazaka, Tokyo.
 
 ## About me
 
-Projects: Projects: Worked on OMS for major apparel brands, EC platforms for major food companies, and more. 
+Projects: Projects: Worked on OMS for major apparel brands, EC platforms for major food companies, and more.  
 Hobbies: Into work cafés — that's about it. Lately just coding all the time.
 
 Still very much a work in progress as an engineer...
